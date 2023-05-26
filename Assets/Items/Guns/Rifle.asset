@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dbd9a909d53401458de77d4439729f4, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  itemName: Rifle
+  itemPrize: 80
+  itemSprite: {fileID: -730816953, guid: 6ece30b699347f64cb9e2b3ff9ca5ed3, type: 3}
+  itemId: 0
